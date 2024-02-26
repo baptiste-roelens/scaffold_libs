@@ -1,4 +1,3 @@
-# scaffold_libs
 # Libraries of scaffold for fold-conditioning [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) designs
 
 ## Baker_lab_fc_libraries:
