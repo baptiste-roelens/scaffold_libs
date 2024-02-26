@@ -10,4 +10,5 @@ As some folds seemed to perform significantly better in specific campaigns, cust
 
 ## Viroxis library
 The Viroxis libraries were obtained by semi-random generation of secondary structure and adjacency information and test of this fold-conditioning template by diffusion of designs that are then tested for type I failure using ProteinMPNN/AlphaFold2 predicition.
-The February 2024 version of the library also includes an additional step, checking whether the diffused designs of the fold-conditioning template a Tm lower than 0.45 to all designs diffused with templates already in the library. This is to promote as much diversity as possible in the library?
+
+The February 2024 version of the library also includes an additional step, checking whether the diffused designs of the fold-conditioning template have a Tm lower than 0.45 to all designs diffused with templates already in the library. This is to promote as much diversity as possible in the library.
